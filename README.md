@@ -3,4 +3,4 @@ The actual code is self contained in retool, connected users can view the app fr
 Code will be copy/pasted into files here for TA review.
 
 Current display:
-![alt text](./hello_world.png)
+![alt text](./RetoolDemo.png)
